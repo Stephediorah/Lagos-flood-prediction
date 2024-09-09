@@ -41,3 +41,8 @@ predictive accuracy, validated by historical flood data, and its ability to iden
 precipitation patterns provide a reliable basis for anticipating flood risks. This data-driven
 approach ensures that the forecast is grounded in empirical evidence, enabling better flood
 preparedness and mitigation strategies for the region.
+
+
+Lagos flood prediction Dashboard
+![flood prediction bi](https://github.com/user-attachments/assets/803bd5c8-5862-40f3-852f-67ccc2773245)
+
